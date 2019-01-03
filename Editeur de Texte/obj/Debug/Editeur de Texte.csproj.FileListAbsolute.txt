@@ -1,0 +1,9 @@
+G:\Visual Studio\Editeur de Texte\Editeur de Texte\bin\Debug\Editeur de Texte.exe.config
+G:\Visual Studio\Editeur de Texte\Editeur de Texte\bin\Debug\Editeur de Texte.exe
+G:\Visual Studio\Editeur de Texte\Editeur de Texte\bin\Debug\Editeur de Texte.pdb
+G:\Visual Studio\Editeur de Texte\Editeur de Texte\obj\Debug\Editeur de Texte.csprojResolveAssemblyReference.cache
+G:\Visual Studio\Editeur de Texte\Editeur de Texte\obj\Debug\Editeur_de_Texte.Editeur.resources
+G:\Visual Studio\Editeur de Texte\Editeur de Texte\obj\Debug\Editeur_de_Texte.Properties.Resources.resources
+G:\Visual Studio\Editeur de Texte\Editeur de Texte\obj\Debug\Editeur de Texte.csproj.GenerateResource.Cache
+G:\Visual Studio\Editeur de Texte\Editeur de Texte\obj\Debug\Editeur de Texte.exe
+G:\Visual Studio\Editeur de Texte\Editeur de Texte\obj\Debug\Editeur de Texte.pdb
